@@ -59,4 +59,4 @@ Feel free to explore my repositories and reach out if you want to collaborate or
 ---
 
 ## 🎨 Aesthetic Touch
-![Dark Background](https://images.app.goo.gl/L1UaB) <!-- Optional: Add a cool dark-themed image or background -->
+![Dark Background](https://user-images.githubusercontent.com/https://images.app.goo.gl/L1UaB) <!-- Optional: Add a cool dark-themed image or background -->
