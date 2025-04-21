@@ -12,13 +12,8 @@
 ---
 
 ## 🛠️ Skills
-- **Languages:** 
-  - HTML
-  - CSS
-  - PHP
-  - Python
-  - JavaScript
-  - Java
+### Languages:
+- **HTML** | **CSS** | **PHP** | **Python** | **JavaScript** | **Java**
 
 ---
 
@@ -28,14 +23,14 @@
 ---
 
 ## 🚀 Interests
-- Web Development
-- Bots
-- Automation
+- **Web Development**
+- **Bots**
+- **Automation**
 
 ---
 
 ## 📫 Connect with Me
-[![Telegram Badge](https://img.shields.io/badge/Telegram-@unknown_rk01-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/unknown_rk01)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@unknown_rk01-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/Unknown_RK01)
 
 ---
 
@@ -56,4 +51,12 @@ Feel free to explore my repositories and reach out if you want to collaborate or
 
 ---
 
+## 🌌 My GitHub Stats
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 🎨 Aesthetic Touch
 ![Dark Background](https://user-images.githubusercontent.com/your-image-url-here) <!-- Optional: Add a cool dark-themed image or background -->
