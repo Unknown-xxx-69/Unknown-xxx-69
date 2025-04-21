@@ -1,6 +1,6 @@
 # 🌌 Welcome to My GitHub Profile!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=30&lines=Hi+there!+I'm+Ravi+Kumar;A+Developer+from+India.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&lines=Hi+there!+I'm+Ravi+Kumar;A+Developer+from+India.)
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect with Me
-[![Telegram Badge](https://img.shields.io/badge/Telegram-@unknown_rk01-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/Unknown_RK01)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@unknown_rk01-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/unknown_rk01)
 
 ---
 
